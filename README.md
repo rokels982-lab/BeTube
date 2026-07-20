@@ -19,4 +19,6 @@ Visit the website here: **[betube.duckdns.org](http://betube.duckdns.org)**
 ## Copyright & Licensing
 **Standard Copyright © 2026.** All rights reserved. 
 The source code, custom styling, and layout logic for this project are private and proprietary. Unauthorized copying, modification, or redistribution of the code is strictly prohibited.
+
+
 <img width="1583" height="733" alt="image" src="https://github.com/user-attachments/assets/e7bc438e-3d61-4271-8348-06d72c9e4d05" />
